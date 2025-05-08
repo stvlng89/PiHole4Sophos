@@ -1,3 +1,6 @@
+####################################################
+# Pihole Liste für Sophos Third-party threat feeds #
+####################################################
 007drones.de
 009972.com
 01discount.com
